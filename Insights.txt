@@ -1,0 +1,5 @@
+Technology category generates the highest sales.
+
+West region is the most profitable.
+
+Profit shows an increasing trend over time.
